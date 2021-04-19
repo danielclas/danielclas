@@ -11,7 +11,7 @@
 
 Contact info:
 * :e-mail: danielclas@oulook.es 
-* :computer: [danielclas.com](danielclas.com)
-* :memo: [LinkedIn](linkedin.com/in/danielclas)
+* :computer: [danielclas.com](http://danielclas.com)
+* :memo: [LinkedIn](http://linkedin.com/in/danielclas)
 
 
